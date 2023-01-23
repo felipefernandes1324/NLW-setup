@@ -80,7 +80,7 @@ color: #A1A1AA;
 button{
 padding: 16px 24px;
 border-radius: 8px;
-border: 1px solid #8B5CF6;
+border: 1px solid #3ea359;
 background-color: transparent;
 color: white;
 
@@ -102,14 +102,14 @@ input{
     width: 64px;
     height: 64px;
     
-    border: 2px solid #A78BFA;
+    border: 2px solid #3ea359;
     border-radius: 8px;
 
     background: #18181B;
 }
 /* pseudo selector */
 input:checked{
-    background: #8B5CF6;
+    background: #3ea359;
     
     border: 2px solid #A78BFA;
 
